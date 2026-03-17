@@ -1,3 +1,3 @@
 # Target-car
-DJ靶车
+DJI靶车
 拒绝横向压缩
