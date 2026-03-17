@@ -1,0 +1,15 @@
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+hero-2024\timers.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+hero-2024\timers.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+hero-2024\timers.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+hero-2024\timers.o: ../Core/Inc/FreeRTOSConfig.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+hero-2024\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

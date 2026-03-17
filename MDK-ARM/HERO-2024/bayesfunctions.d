@@ -1,0 +1,17 @@
+hero-2024\bayesfunctions.o: C:/Keil5/ARM/PACK/ARM/CMSIS-DSP/1.15.0/Source/BayesFunctions/BayesFunctions.c
+hero-2024\bayesfunctions.o: C:/Keil5/ARM/PACK/ARM/CMSIS-DSP/1.15.0/Source/BayesFunctions/arm_gaussian_naive_bayes_predict_f32.c
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\dsp/bayes_functions.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types.h
+hero-2024\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+hero-2024\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\ARMCC\Bin\..\include\float.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\arm_math_memory.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\dsp/none.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\dsp/utils.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\dsp/statistics_functions.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\dsp/basic_math_functions.h
+hero-2024\bayesfunctions.o: C:\Keil5\ARM\PACK\ARM\CMSIS-DSP\1.15.0\Include\dsp/fast_math_functions.h
